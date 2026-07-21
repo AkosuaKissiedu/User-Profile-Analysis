@@ -75,8 +75,17 @@ Because listening time is similar across age groups and countries, age and locat
 2. Personalise campaigns by genre preference
 Genre preferences vary more clearly across age groups and countries than overall listening intensity. The business can use these differences to personalise recommendations, promotional campaigns and Premium messaging around the genres that are most relevant to each audience segment.
   
+3. Adapt the product experience by device
+Although no device dominates every segment, device preferences vary by market and age group. The business should optimise Premium features and campaigns for the devices most commonly used within each segment, such as mobile-focused campaigns in the UK, USA and Canada or car-listening experiences in markets where car systems are more widely used.
 
-    
+4. Target users approaching Premium-level engagement
+Active Premium Users typically listen for around 10 hours per week. Free users with similar listening levels and consistent recent activity may therefore be strong candidates for conversion campaigns, particularly when combined with similar device and genre behaviours.
+
+5. Avoid relying on a single universal Premium profile
+Active Premium Users have diverse genre and device preferences. Rather than using one broad campaign for all prospective Premium users, the business should create smaller audience segments based on combinations of listening time, preferred genre, device, age and country.
+
+6. Validate the patterns before implementing major changes
+This analysis identifies descriptive patterns but does not establish which characteristics cause users to subscribe or remain active. The business should test the proposed segments through targeted campaigns or A/B tests and compare conversion, engagement and retention outcomes.
 
   
 
