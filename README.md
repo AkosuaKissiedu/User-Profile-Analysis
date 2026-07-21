@@ -67,8 +67,13 @@ Countries show some variation in their leading devices and preferred genres, but
 
 ## 5. Differences by Age
 Device usage and listening time are broadly consistent across age groups. Genre preferences show more            noticeable differences, suggesting that age may be more useful for understanding music taste than for            predicting how long or on which device Premium users listen.
-  
 
+# Business Implications and Recommended Actions
+1. Use behaviour-based rather than broad demographic targeting:
+Because listening time is similar across age groups and countries, age and location alone may not be strong indicators of Premium engagement. The business should prioritise behavioural factors, such as listening frequency, device usage and genre preferences, when identifying Free users who resemble Active Premium Users.
+  
+2. Personalise campaigns by genre preference
+Genre preferences vary more clearly across age groups and countries than overall listening intensity. The business can use these differences to personalise recommendations, promotional campaigns and Premium messaging around the genres that are most relevant to each audience segment.
   
 
     
